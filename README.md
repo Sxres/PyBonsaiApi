@@ -25,8 +25,8 @@ docker push
 ## Stack
 
 - FastAPI
-- pybonsai
 - Docker
-- Google Cloud Run
+
+
 
 
