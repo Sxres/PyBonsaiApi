@@ -1,6 +1,6 @@
 # bonsai-api
 
-A minimal FastAPI server that generates ASCII bonsai trees using [pybonsai](https://github.com/nicholaswmin/pybonsai).
+A minimal FastAPI server that generates ASCII bonsai trees using [pybonsai](https://github.com/Ben-Edwards44/PyBonsai).
 
 ## Endpoints
 
@@ -29,3 +29,4 @@ gcloud run deploy bonsai-api --image us-central1-docker.pkg.dev/bonsai-api-48922
 - pybonsai
 - Docker
 - Google Cloud Run
+
