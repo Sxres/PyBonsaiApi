@@ -18,14 +18,15 @@ Then hit `http://localhost:8000/tree/instant`.
 Deployed on Google Cloud Run. Rebuild and redeploy:
 ```bash
 docker build -t bonsai-api .
-docker tag yourimage
-docker push yourregion/yourimage
+docker tag yourimage/yourrepo
+docker push yourrepo/yourimage
 ```
 
 ## Stack
 
 - FastAPI
 - Docker
+
 
 
 
